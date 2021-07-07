@@ -8,7 +8,7 @@
     <title>Dashboard</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://d3js.org/d3.v5.min.js"></script>
-    
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 
 <body>
@@ -23,7 +23,7 @@
           <div class="col-md-2">
             <div class="well">
               <h6>Test Subject ID No.:</h6>
-              <select class= "form control" id="selDataset"></select>
+              <select id="selDataset" onchange ="getData(this.value)"></select>
             </div>
             <div class="panel panel-primary">
               <div class="panel-heading">
