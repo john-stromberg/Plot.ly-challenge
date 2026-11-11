@@ -1,3 +1,8 @@
+> **Moved:** This project is maintained in [data-analytics-bootcamp-2019/projects/Plot.ly-challenge](https://github.com/john-stromberg/data-analytics-bootcamp-2019/tree/main/projects/Plot.ly-challenge).
+> This repository is retained as a historical snapshot.
+
+---
+
 # Plot.ly - Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria.jpg)
